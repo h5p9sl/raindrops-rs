@@ -1,5 +1,5 @@
 [package]
-name = "piston_test"
+name = "raindrops-rs"
 version = "0.1.0"
 authors = ["h5p9sl <21267024+h5p9sl@users.noreply.github.com>"]
 edition = "2018"
